@@ -1,19 +1,14 @@
 
 
 <p align="center">
-  <img height="420" width="400" src="https://user-images.githubusercontent.com/62717509/152601970-4bdc4c47-23e0-4bae-b03c-7639d79cc313.png" />
- <img width="400" src="https://github-readme-stats.vercel.app/api?username=juanpablommm&show_icons=true&theme=synthwave" />
- <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave" />
+  <img height="300" width="400" src="https://user-images.githubusercontent.com/62717509/152604581-2d6d0790-2a2d-460a-b015-cffe2d079378.png" />
+ <img height="320"  width="480" src="https://github-readme-stats.vercel.app/api?username=juanpablommm&show_icons=true&theme=synthwave" />
+ <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave" />
   </p>
   
- 
-
-<p align="right"> 
-  
-  </p>
   
   <p align="left"> 
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=juanpablommm&row=1&column=5&theme=synthwave" />
+  <img width="500" src="https://github-profile-trophy.vercel.app/?username=juanpablommm&row=1&column=5&theme=synthwave" />
 </p>
  
 <p align="left"> 
@@ -30,31 +25,42 @@
 </p>
 
 
-[![Linkedin: Mohit Patil](https://img.shields.io/badge/-Mohitp98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohitp98/)](https://www.linkedin.com/in/mp98/)
-<a href="https://instagram.com/_mohitp_" target="_blank"><img src="https://img.shields.io/badge/@_mohitp98_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
-[![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
 
 
-**🌱 Knowledge is:**
 
+###### **🌱 Knowledge is:**
+
+
+<code><a href="https://www.oracle.com/co/java/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+<code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+<code><a href="https://"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="https://"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code>
 <code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://go.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></a></code>
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="https://www.openshift.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+
+###### **🌱 Looking forward to learn:**
+
+
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://www.ruby-lang.org/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></a></code>
+<code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+
+
+
+
 
 - 📫 How to reach me: ...
 
 
-**🌱 Looking forward to learn:**
 
+<code><a href="www.linkedin.com/in/juan-pablo-montoya-ospinal-b91821228" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"></a></code>
+
+<code><a href="https://github.com/juanpablommm" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 
