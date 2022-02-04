@@ -31,24 +31,24 @@
 ###### **🌱 Knowledge is:**
 
 
-<img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+<code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
 
 ###### **🌱 Looking forward to learn:**
 
 
-<img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+<code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 
 
 
