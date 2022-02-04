@@ -31,7 +31,7 @@
 ###### **🌱 Knowledge is:**
 
 
-<img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a>
+<img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
@@ -55,7 +55,10 @@
 
 
 - 📫 How to reach me: ...
+
+
 _www.linkedin.com/in/juan-pablo-montoya-ospinal-b91821228_
-_https://github.com/juanpablommm_
+
+
 
 
