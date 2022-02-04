@@ -1,15 +1,18 @@
 
-<p align="right"> 
+
+<p align="center">
+  <img height="420" width="400" src="https://user-images.githubusercontent.com/62717509/152601970-4bdc4c47-23e0-4bae-b03c-7639d79cc313.png" />
  <img width="400" src="https://github-readme-stats.vercel.app/api?username=juanpablommm&show_icons=true&theme=synthwave" />
+ <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave" />
   </p>
   
  
 
 <p align="right"> 
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave" />
+  
   </p>
   
-  <p align="right"> 
+  <p align="left"> 
   <img width="400" src="https://github-profile-trophy.vercel.app/?username=juanpablommm&row=1&column=5&theme=synthwave" />
 </p>
  
