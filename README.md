@@ -31,8 +31,8 @@
 ###### **🌱 Knowledge is:**
 
 
-<code><a href="https://www.oracle.com/co/java/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
-<code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.oracle.com/co/java/" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+<code><a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
 <code><a href="https://"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
