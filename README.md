@@ -31,8 +31,8 @@
 ###### **🌱 Knowledge is:**
 
 
-<code><a href="https://www.oracle.com/co/java/" target="_blank"><img width="20" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
-<code><a href="https://www.sqlite.org/index.html" target="_blank"><img width="20" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.oracle.com/co/java/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+<code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
 <code><a href="https://"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
@@ -55,10 +55,7 @@
 
 
 - 📫 How to reach me: ...
-
-
-
-<code><a href="www.linkedin.com/in/juan-pablo-montoya-ospinal-b91821228" target="_blank"><img height="50" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/"></a></code>
-<code><a href="juanpablomontoya618@gmail.com" target="_blank"><img height="50" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com"></a></code>
+<code><a href="www.linkedin.com/in/juan-pablo-montoya-ospinal-b91821228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/"></a></code>
+<code><a href="juanpablomontoya618@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com"></a></code>
 
 
