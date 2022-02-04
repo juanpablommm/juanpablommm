@@ -58,9 +58,7 @@
 
 
 
-<code><a href="www.linkedin.com/in/juan-pablo-montoya-ospinal-b91821228" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
+<code><a href="www.linkedin.com/in/juan-pablo-montoya-ospinal-b91821228" target="_blank"><img height="50" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-byte/"></a></code>
+<code><a href="juanpablomontoya618@gmail.com" target="_blank"><img height="50" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com"></a></code>
 
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"></a></code>
-
-<code><a href="https://github.com/juanpablommm" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
 
