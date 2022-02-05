@@ -3,7 +3,7 @@
 <p align="center">
   <img height="240" width="300" src="https://user-images.githubusercontent.com/62717509/152604581-2d6d0790-2a2d-460a-b015-cffe2d079378.png" />
  <img height="320"  width="400" src="https://github-readme-stats.vercel.app/api?username=juanpablommm&show_icons=true&theme=synthwave" />
- <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=synthwave" />
+ <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablommm&layout=compact&theme=synthwave" />
   </p>
   
   
